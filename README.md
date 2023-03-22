@@ -1,5 +1,1 @@
-# A skeleton for python modules. 
-
-    python init_project.py
-    pip install versioneer
-    versioneer install
+[![Python package](https://github.com/AndriyPlakhotnyk/demo-package/actions/workflows/python-package.yml/badge.svg)](https://github.com/AndriyPlakhotnyk/demo-package/actions/workflows/python-package.yml)
