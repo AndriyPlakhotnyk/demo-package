@@ -1,0 +1,11 @@
+README.md
+setup.cfg
+setup.py
+andriy/__init__.py
+andriy/functions.py
+andriy.egg-info/PKG-INFO
+andriy.egg-info/SOURCES.txt
+andriy.egg-info/dependency_links.txt
+andriy.egg-info/requires.txt
+andriy.egg-info/top_level.txt
+tests/__init__.py
